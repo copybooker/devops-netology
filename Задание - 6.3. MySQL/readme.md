@@ -183,7 +183,7 @@ Records: 5  Duplicates: 0  Warnings: 0
 Приведите в ответе измененный файл my.cnf
 
 ### Ответ: 
-       Листинг измененного файла my.cnf согласно условиям задания
+Листинг измененного файла my.cnf согласно условиям задания
 ```
 [mysqld]
 pid-file        = /var/run/mysqld/mysqld.pid
