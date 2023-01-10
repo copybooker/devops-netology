@@ -24,13 +24,19 @@ Ansible
 ### Ответ:
 
    VirtualBox
+   ```
    VBoxManage -v
    6.1.38_Ubuntur153438
+   ```
     
    Vagrant
+   ```
    vagrant -v
    Vagrant 2.2.6
+   ```
 	
    Ansible
+   ```
    ansible --version
    ansible [core 2.13.6]
+   ```
